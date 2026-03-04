@@ -1,4 +1,4 @@
-# Hi there 👋, I'm ADeola Oladeji
+# Hi there 👋, I'm Adeola Oladeji
 
 ![Profile Banner](https://img.shields.io/badge/Data%20Engineer-🚀-blue?style=for-the-badge)
 
