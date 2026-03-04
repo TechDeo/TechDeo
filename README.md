@@ -59,10 +59,9 @@ I design and build **scalable data pipelines**, optimize **ETL workflows**, and 
 
 ## 📊 GitHub Stats
 
-![Deola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Deola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechDeo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechDeo&layout=compact&theme=radical)
 
-> **Note:** Replace `your-username` with your actual GitHub username to display live stats.
 
 ---
 
